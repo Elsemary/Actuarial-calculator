@@ -1,5 +1,5 @@
 """
-@author: ABELRHMAN H ELSEMARY ; Collge of science department of mathematics
+@author: ABELRHMAN H ELSEMARY  ; Collge of science department of mathematics
 """
 import numpy as np
 
